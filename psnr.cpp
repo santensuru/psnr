@@ -1,3 +1,16 @@
+/**
+ * For counting PSNR value from ...
+ * Lossy Image Compression using Adaptive lsb, Vitter (Adaptive Huffman) & Welch (LZW with Fredkin (Trie Memory))
+ * -- OR --
+ * https://github.com/santensuru/adaptive-huffman-image-lossy-with-lzw
+ *
+ * Author: Djuned Fernando Djusdek
+ *         5112.100.071
+ *         Informatics - ITS
+ *
+ * This code only use for grayscale image from 8-bit *.pgm format file
+ */
+
 #include <iostream>
 #include <cmath>
 #include <cstring>
